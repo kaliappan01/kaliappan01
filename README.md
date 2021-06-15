@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Hackerrank](https://www.hackerrank.com/kaliappan) | [LeetCode](https://leetcode.com/kaliappan/) | [twitter](https://twitter.com/kaliappan01) | [LinkedIn](https://www.linkedin.com/in/kaliappan-yadav-85aa77200/) | [Kaggle](https://www.kaggle.com/kaliappanyadav) | [Instagram](https://www.instagram.com/kaliappan_y/) | 
 
 
-![Kaliappan github stats](https://github-readme-stats.vercel.app/api?username=kaliappan01&show_icons=true&hide_border=true)
+![Kaliappan github stats](https://github-readme-stats.vercel.app/api?username=kaliappan01&theme=algolia&show_icons=true&hide_border=true)
