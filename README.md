@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kaliappan-yadav-85aa77200/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="45px" width="45px" /></a>
 <a href="https://www.kaggle.com/kaliappanyadav" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="45px" width="45px" /></a>  
 ![Kaliappan github stats](https://github-readme-stats.vercel.app/api?username=kaliappan01&theme=dark&show_icons=true&hide_border=true)
+
+[![kp's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaliappan01&theme=react-dark)](https://github.com/kaliappan01/github-readme-activity-graph)
