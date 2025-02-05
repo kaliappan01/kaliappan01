@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently looking for a SDE-1, SDE-2, Full stack developer role.
-- 🐱‍👤I have 1.5 years experience in developing data-intensive and secure applications using C++, Python & Go. 
+- 🐱‍👤I have nearly 2 years of work experience in developing data-intensive and secure applications using C++, Python & Go. 
 - 👯 I’m looking to collaborate on Software Development, Programming in C++, Java, Data structure & Algorithms, NLP, Open source contribution.
 - 💬 Ask me about C++, golang, python, Bash, Linux, Docker, RabbitMQ.
 - 📫 How to reach me:   
